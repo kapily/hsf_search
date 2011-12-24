@@ -1,0 +1,4 @@
+Design choices:
+- Decided to use SQLite to hold the data to be indexed:
+	1) Supports easy viewing and editing
+	2) Portable, very widely used

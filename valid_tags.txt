@@ -1,0 +1,13 @@
+# Comments must begin with a pound sign (#)
+# Format below:
+# canonical tag, alt tag 1, alt tag 2, ..., alt tag n
+# all alt tags are optional
+# Astronauts
+# preview.py (not used for actual program), matches left to right
+# so make sure the left most one is the one you want
+Astronaut, Astronaut Neil
+Neil A. Armstrong, Neil Armstrong, Armstrong
+# Ships
+Endeavour (Space Shuttle), Orbiter Endeavour
+# Missions
+STS-108

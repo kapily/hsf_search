@@ -1,0 +1,18 @@
+body{ background-color: white; font-family:'Georgia';} 
+p { color: blue; } 
+h3{ color: white; }
+div.record_id{
+	
+}
+div.tag_divider{font-weight:bold;}
+
+span.tag0{font-weight:bold;background-color:#99FF66;} /* blue */
+span.tag1{font-weight:bold;background-color:#9DE6FF;} /* green */
+span.tag2{font-weight:bold;background-color:#EDDDFF;} /* purple */
+span.tag3{font-weight:bold;background-color:#ffb7b7;} /* red */
+span.tag4{font-weight:bold;background-color:#fff2a8;} /* yellow */
+span.tag5{font-weight:bold;background-color:#DAC8B6;} /* light brown */
+span.tag6{font-weight:bold;background-color:#FFB547;} /* orange */
+span.tag7{font-weight:bold;background-color:#FFCCFF;} /* pink */
+span.tag8{font-weight:bold;background-color:#A3FFFF;} /* teal */
+span.tag9{font-weight:bold;background-color:#CC99B2;} /* rosemary */
